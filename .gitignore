@@ -1,0 +1,25 @@
+
+*.txt
+
+.*
+!.gitkeep
+!.gitignore
+tags
+
+*~
+*.back
+# patch command backup file
+*.orig
+
+# cash
+*~
+
+
+# tmporary
+/tmp
+/temp
+/gabage
+/work
+
+# doxygen
+/doxygen
