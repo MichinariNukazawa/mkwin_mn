@@ -3,7 +3,7 @@
 
 ## About
 mkwin_mnは、小規模なMakefileを、Windows環境で動作させるための互換用ファイル群です。  
-[mkwin_mnについて(ja)](http://michinari.nukazawa.com/mkwin_mn_released.html)  
+[mkwin_mnについて(ja)](http://blog.michinari-nukazawa.com/2016/10/mkwinmnreleased.html)  
 
 The mkwin_mn is compatibility toolkit for the minimal Makefile in Windows environment.  
 
